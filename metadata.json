@@ -1,0 +1,6 @@
+{
+  "name": "Art Line Group",
+  "description": "Premium B2B production of souvenirs, branding, printing, outdoor advertising and engraving in Kaliningrad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
